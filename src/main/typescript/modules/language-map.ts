@@ -28,5 +28,9 @@ export const langNameMap: Record<string, HljsLangID | HljsLangID[]> = {
   "sbt": "scala",
   "sdc": "tcl",
   "vhd": "vhdl",
-  "xdc": "tcl"
+  "xdc": "tcl",
+  // Extensions for Intersystems ObjectScript
+  "cls": "cos",
+  "mac": "cos",
+  "inc": "cos",
 };
